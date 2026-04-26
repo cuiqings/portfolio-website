@@ -1,0 +1,92 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "close": "Close",
+    "viewMore": "View More",
+    "backToHome": "Back to Home"
+  },
+  "navigation": {
+    "home": "Home",
+    "projects": "Projects",
+    "skills": "Skills",
+    "blog": "Blog",
+    "about": "About"
+  },
+  "home": {
+    "greeting": "Hi, I'm",
+    "name": "Cui Qingshuo",
+    "position": "Senior Frontend Developer",
+    "introduction": "6 years of frontend experience | Expert in Vue/React | Specialized in high-performance web apps and data visualization",
+    "cta": "View My Work",
+    "loading3d": "Loading 3D scene..."
+  },
+  "projects": {
+    "title": "Projects",
+    "filterAll": "All",
+    "viewDemo": "View Demo",
+    "viewCode": "View Code",
+    "technologies": "Technologies",
+    "duration": "Duration",
+    "background": "Background",
+    "responsibilities": "Responsibilities",
+    "challenges": "Challenges",
+    "achievements": "Achievements"
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "My technical stack and expertise",
+    "chartTitle": "Skills Radar Chart",
+    "listTitle": "Skills List",
+    "byCategory": "By Category",
+    "proficiency": "Proficiency",
+    "experience": "Years of Experience",
+    "category": "Category"
+  },
+  "blog": {
+    "title": "Blog",
+    "search": "Search articles...",
+    "filterByTag": "Filter by Tag",
+    "filterByCategory": "Filter by Category",
+    "readingTime": "min read",
+    "publishedOn": "Published on",
+    "updatedOn": "Updated on",
+    "tableOfContents": "Table of Contents",
+    "noResults": "No articles found",
+    "allCategories": "All Categories",
+    "allTags": "All Tags"
+  },
+  "about": {
+    "title": "About Me",
+    "workExperience": "Work Experience",
+    "education": "Education",
+    "skills": "Professional Skills",
+    "downloadResume": "Download Resume",
+    "contact": "Contact",
+    "email": "Email",
+    "present": "Present"
+  },
+  "footer": {
+    "copyright": "Copyright",
+    "allRightsReserved": "All rights reserved",
+    "builtWith": "Built with",
+    "and": "and",
+    "madeWith": "Made with ❤️"
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode",
+    "toggle": "Toggle Theme"
+  },
+  "language": {
+    "zh": "中文",
+    "en": "English",
+    "switch": "Switch Language"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "message": "Sorry, the page you are looking for does not exist.",
+    "backToHome": "Back to Home"
+  }
+}

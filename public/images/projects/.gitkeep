@@ -1,0 +1,11 @@
+# Project Images Directory
+
+Place project images here with the following naming convention:
+- tok-exchange.jpg
+- smart-customer-service.jpg
+- digital-twin-park.jpg
+- plantguard-mobile.jpg
+- smart-factory-management.jpg
+- smart-home-control.jpg
+
+Images will fallback to placeholder SVG if not found.

@@ -1,0 +1,92 @@
+{
+  "common": {
+    "loading": "加载中...",
+    "error": "出错了",
+    "retry": "重试",
+    "close": "关闭",
+    "viewMore": "查看更多",
+    "backToHome": "返回首页"
+  },
+  "navigation": {
+    "home": "首页",
+    "projects": "项目",
+    "skills": "技能",
+    "blog": "博客",
+    "about": "关于"
+  },
+  "home": {
+    "greeting": "你好，我是",
+    "name": "崔庆硕",
+    "position": "高级前端开发工程师",
+    "introduction": "6年前端开发经验 | 精通 Vue/React | 专注于构建高性能 Web 应用和数据可视化",
+    "cta": "查看我的作品",
+    "loading3d": "正在加载 3D 场景..."
+  },
+  "projects": {
+    "title": "项目展示",
+    "filterAll": "全部",
+    "viewDemo": "查看演示",
+    "viewCode": "查看代码",
+    "technologies": "技术栈",
+    "duration": "项目时间",
+    "background": "项目背景",
+    "responsibilities": "职责",
+    "challenges": "技术难点",
+    "achievements": "项目成果"
+  },
+  "skills": {
+    "title": "技能矩阵",
+    "subtitle": "我的技术栈和专业能力",
+    "chartTitle": "技能雷达图",
+    "listTitle": "技能列表",
+    "byCategory": "按分类查看",
+    "proficiency": "熟练度",
+    "experience": "使用年限",
+    "category": "分类"
+  },
+  "blog": {
+    "title": "技术博客",
+    "search": "搜索文章...",
+    "filterByTag": "按标签筛选",
+    "filterByCategory": "按分类筛选",
+    "readingTime": "分钟阅读",
+    "publishedOn": "发布于",
+    "updatedOn": "更新于",
+    "tableOfContents": "目录",
+    "noResults": "未找到相关文章",
+    "allCategories": "全部分类",
+    "allTags": "全部标签"
+  },
+  "about": {
+    "title": "关于我",
+    "workExperience": "工作经历",
+    "education": "教育背景",
+    "skills": "专业技能",
+    "downloadResume": "下载简历",
+    "contact": "联系方式",
+    "email": "邮箱",
+    "present": "至今"
+  },
+  "footer": {
+    "copyright": "版权所有",
+    "allRightsReserved": "保留所有权利",
+    "builtWith": "使用",
+    "and": "和",
+    "madeWith": "用 ❤️ 制作"
+  },
+  "theme": {
+    "light": "浅色模式",
+    "dark": "深色模式",
+    "toggle": "切换主题"
+  },
+  "language": {
+    "zh": "中文",
+    "en": "English",
+    "switch": "切换语言"
+  },
+  "notFound": {
+    "title": "页面未找到",
+    "message": "抱歉，您访问的页面不存在。",
+    "backToHome": "返回首页"
+  }
+}
