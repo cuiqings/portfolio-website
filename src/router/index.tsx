@@ -84,5 +84,5 @@ export const router = createBrowserRouter([
     element: <NotFoundPage />,
   },
 ], {
-  basename: '/portfolio-website',
+  basename: import.meta.env.PROD ? '/portfolio-website' : '/', // 生产环境用 GitHub Pages 路径
 });

@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/portfolio-website/', // GitHub Pages 需要仓库名作为路径
+  base: process.env.NODE_ENV === 'production' ? '/portfolio-website/' : '/', // 生产环境用 GitHub Pages 路径，开发环境用根路径
   server: {
     port: 3000,
   },
