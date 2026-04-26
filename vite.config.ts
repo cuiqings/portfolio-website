@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/', // Vercel 使用根路径
+  base: '/portfolio-website/', // GitHub Pages 需要仓库名作为路径
   server: {
     port: 3000,
   },
