@@ -51,8 +51,7 @@ export const useThemeStore = create<ThemeStore>((set, get) => ({
       return;
     }
 
-    // Fall back to system preference
-    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    get().setTheme(prefersDark ? 'dark' : 'light');
+    // Default to dark theme (ignore system preference)
+    get().setTheme('dark');
   },
 }));
